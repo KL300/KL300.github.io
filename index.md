@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Bienvenido al servidor de Kl300
 
-You can use the [editor on GitHub](https://github.com/KL300/KL300.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Puedes [descargar GRATIS](https://kl300.github.io/) juegos desde PC hasta movil masde 30 juegos de tod tipo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+no obstante siempre podras hablar con el administrador sobre algun error de esta pagina
+### Juegos gratis ¨PC¨
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
