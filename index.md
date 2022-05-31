@@ -5,7 +5,11 @@ Puedes [descargar GRATIS](https://kl300.github.io/) juegos desde PC hasta movil 
 no obstante siempre podras hablar con el administrador sobre algun error de esta pagina
 ### Juegos gratis ¨PC¨
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```Terraria: https://www.mediafire.com/file/vwccm1owpr8etg1/Terraria_ByGoodErick.rar/file
+```Geometry dash: 
+http://www.mediafire.com/file/5xfvdsl5vb806ve/GD+(PC)+by-DaniGD.zip/file
+
+```Undertale: http://www.mediafire.com/file/f926ukbobwzwilf/Undertale.rar/file
 
 ```markdown
 Syntax highlighted code block
